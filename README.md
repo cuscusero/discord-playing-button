@@ -59,3 +59,12 @@ This is where you have to create the image that will be displayed in your state
 ## Create Application
 
 - [Discord Developer](https://discord.com/developers/applications)
+
+
+## Posible Problems
+
+  <img src="https://cdn.discordapp.com/attachments/804108242564677642/805195453121167370/unknown.png" width="320">
+  
+  - This Folder is found 100%
+    - [Download](https://mega.nz/file/IIFjDSjZ#O99HLfWqvUTImRRmZaI_JLQLEyv8WTnJcOmOcNQ2W_0)
+  
