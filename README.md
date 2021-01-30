@@ -38,9 +38,11 @@ To install this "script" you will have to do a few simple steps:
 
 Credits | Youtube Tutorial 
 -------- | ----------------
-[ZYN]()  | [Youtube Tutorial ( SOON )](  )
+[ZYN] | [Youtube Tutorial ( SOON )]
 
 ## Image Rich Presence
+
+This is where you have to create the image that will be displayed in your state
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/721337166495481856/805104186390872124/unknown.png" width="320" />
