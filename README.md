@@ -38,7 +38,7 @@ To install this "script" you will have to do a few simple steps:
 
 Credits | Youtube Tutorial 
 -------- | ----------------
-[ZYN] | [Youtube Tutorial ( SOON )]
+ZYN | Youtube Tutorial ( SOON )
 
 ## Image Rich Presence
 
