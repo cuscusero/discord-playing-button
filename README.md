@@ -31,9 +31,7 @@ To install this "script" you will have to do a few simple steps:
 
    - Write: npm install discord-rpc 
    
-   - [Example GIF](https://i.gyazo.com/47256a61e11cc33f6a223d4e159cee94.mp4)
-
-      <img src="https://i.gyazo.com/47256a61e11cc33f6a223d4e159cee94.mp4" width="320">
+   - [Example npm install discord-rpc](https://i.gyazo.com/47256a61e11cc33f6a223d4e159cee94.mp4)
  
 ## Run Code
  Run This source:
