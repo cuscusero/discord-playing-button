@@ -26,11 +26,12 @@ To install this "script" you will have to do a few simple steps:
  ### Install
   - Open: [Node.js command prompt Terminal](https://nodejs.org/en/) 
   - Write: cd [folder path] 
-   - Example: 
-   <p align="center">
+   - Example: <p align="center">
    <img src="https://cdn.discordapp.com/attachments/721337166495481856/805109253701369866/unknown.png" width="320">
+
    - Write: npm install discord-rpc 
-   [Example GIF](https://i.gyazo.com/47256a61e11cc33f6a223d4e159cee94.mp4)
+   
+   - [Example GIF](https://i.gyazo.com/47256a61e11cc33f6a223d4e159cee94.mp4)
  
 ## Run Code
  Run This source:
