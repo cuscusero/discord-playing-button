@@ -6,12 +6,15 @@ client.on('ready', () => {
   client.request('SET_ACTIVITY', {
     pid: process.pid,
       activity : {
-        details : "www.callejerosrp.com | Cuscusero", // Game text
+        details : "www.callejerosrp.com | Cuscusero#0001", // Game text
         assets : {
           large_image : "callejeros", // Name of the image you put in the Rich Presence in the BOT
           large_text : "www.callejerosrp.com" // Text when the mouse is over the image
         },
-        buttons : [{label : "WEB" , url : "https://callejerosrp.com"},{label : "Discord",url : "https://discord.gg/callejerosrp"}]  // Buttons
+        buttons : [
+          {label : "WEB" , url : "https://callejerosrp.com"},
+          {label : "Discord",url : "https://discord.gg/callejerosrp"}
+        ]
       }
   })
 })
